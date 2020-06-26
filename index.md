@@ -8,4 +8,4 @@ Und Guenter Gabler sagt:
 > Das Gelingende Leben ist lustvoll! Spionsa
 > > Go Further!
 >
-> <img src="bee.jpg" alt="Alt-Text" title="" />
+<img src="bee.jpg" alt="Alt-Text" title="" />
